@@ -2,7 +2,7 @@
 - - - -
 ## Overview:
 This assignment tackles a common challenge in cinema post-production: degraded or corrupted film frames. A 2D algorithm was designed to impaint the missing pixels of a corrupted frame. This was implemented using a PDE.
-
+- - - -
 ## Results:
 ![image](https://github.com/Haskins2/PDE-Picture-Restoration/assets/126469860/e16175dc-ff3d-4b5c-920a-0adcb26b92c7)
 
